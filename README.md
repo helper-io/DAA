@@ -1,0 +1,11 @@
+## Index
+1. [Quick Sort](exp-1.cpp)
+2. [Merge Sort](exp-2.cpp)
+3. [Knapsack](exp-3.cpp)
+4. [Job Sequencing](exp-4.cpp)
+5. [Kruskal](exp-5.cpp)
+6. [Prims](exp-6.cpp)
+7. [0/1 kanpsack](exp-7.cpp)
+8. [Dijkastra](exp-8.cpp)
+9. [Multistaged Graph](exp-9.cpp)
+10. [8-Queen](exp-10.cpp)
